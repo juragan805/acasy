@@ -2,12 +2,26 @@
   "name": "ACASY",
   "symbol": "ACSY",
   "description": "Token resmi ACASY berbasis Solana.",
-  "image": "https://raw.githubusercontent.com/juragan805/acasy/refs/heads/main/logo2.png",
+  "image": "https://raw.githubusercontent.com/juragan805/acasy/main/logo2.png",
+  "seller_fee_basis_points": 0,
+  "external_url": "",
+  "attributes": [],
+  "collection": {
+    "name": "ACASY",
+    "family": "ACASY"
+  },
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/juragan805/acasy/refs/heads/main/logo2.png",
+        "uri": "https://raw.githubusercontent.com/juragan805/acasy/main/logo2.png",
         "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3T5P5XzyVrNSVfQzRh9KRUVV63Ankq2qLZAKa7PAkyXb",
+        "share": 100
       }
     ]
   }
