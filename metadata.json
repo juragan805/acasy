@@ -1,0 +1,14 @@
+{
+  "name": "ACASY",
+  "symbol": "ACSY",
+  "description": "Token resmi ACASY berbasis Solana.",
+  "image": "https://raw.githubusercontent.com/juragan805/acasy/refs/heads/main/logo2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/juragan805/acasy/refs/heads/main/logo2.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
